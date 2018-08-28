@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+![Image](src)
+My name is Sam Youles, and I am a postgraduate researcher at the Institute of Cosmology & Gravitation in Portsmouth.
 
-You can use the [editor on GitHub](https://github.com/SamYoules/SamYoules.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Research Interests
+I study the Large Scale Structure of the Universe using the Lyman alpha forests from quasar spectra as tracers of the dark matter density field. I am a member of the extended [Baryon Oscillation Spectroscopic Survey (eBOSS)](https://www.sdss.org/surveys/eboss/) and [Dark Energy Spectroscopic Instrument (DESI)](https://www.desi.lbl.gov/) collaborations. I am currently investigating weak lensing of the Lyman alpha forest.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SamYoules/SamYoules.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact information
+<script language="JavaScript"> var username = "samantha.youles"; var hostname = "port.ac.uk"; var linktext = username + "@" + hostname ; document.write("" + linktext + ""); </script> 
