@@ -1,4 +1,5 @@
-![profile1.png](profile1.png)
+![profilemini.png](profilemini.png)
+
 My name is Sam Youles, and I am a postgraduate researcher at the Institute of Cosmology & Gravitation in Portsmouth.
 
 ## Research Interests
