@@ -7,4 +7,4 @@ I study the Large Scale Structure of the Universe using the Lyman alpha forests 
 
 ## Contact information
 <script language="JavaScript"> var username = "samantha.youles"; var hostname = "port.ac.uk"; var linktext = username + "@" + hostname ; document.write("" + linktext + ""); </script> 
-![ORCID.png](ORCID.png){:height="36px" width="36px"}
+![ORCID.png](ORCID.png){:height="100px" width="100px"}
